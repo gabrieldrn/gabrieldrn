@@ -1,7 +1,7 @@
 
 🇫🇷 Android developer based in 🇨🇦
 
-Graphic design enthusiast and ⛵ lover
+Android tech lead wannabe, graphic design enthusiast and ⛵ lover.
 
 <!---
 gabrieldrn/gabrieldrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
