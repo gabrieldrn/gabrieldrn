@@ -1,6 +1,8 @@
 
 🇫🇷 Android developer based in 🇨🇦
 
+Fond of Android and Kotlin development 🤩
+
 Graphic design enthusiast and ⛵ lover
 
 <!---
